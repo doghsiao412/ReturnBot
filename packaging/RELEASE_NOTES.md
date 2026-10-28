@@ -1,3 +1,7 @@
+v4.3.1
+
+- 一般 KBB 與寄銷召回的 Invoice 預設列印份數由 2 份調整為 1 份。
+
 v4.3
 
 - 新增 Mail-in KBB「維修中心」選單，可選擇 Pegatron 或 DSV。
